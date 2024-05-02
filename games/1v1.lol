@@ -73,7 +73,7 @@
         <p>unblocked games and more panic link this website will be mostly will be weekly/monthly updated, leaking this website will give you nothing so dont snitch btw you can tell me what games to add next my email is momoshkibangtun@gmail.com so feel free to contact me</p>
     </section>
     <footer>
-        <p>&copy; 2024 All rights reserved</p>
+        <p>&copy; 2024 All rights reserved btw if you have this website you have contributed</p>
     </footer>
 </body>
 </html>
